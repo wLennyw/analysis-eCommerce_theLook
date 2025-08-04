@@ -37,10 +37,16 @@ This project leverages **SQL** for data exploration and aggregation, and **Pytho
 3. Visual analysis and interpretation of trends.
 4. Business insights and recommendations.
 
-## 📌 Scope
+### **Scope**:
 - Covers data available up to **May 2025**.
 - Focus areas include: **sales, customers, products,** and **inventory**.
 - This is a **one-time static analysis. No dashboard development** is included.
+
+## 📌 Case Study Solutions:
+
+**Code**: [theLook Colab](https//github.com/wLennyw/analysis-eCommerce_theLook/blob/main/%5BData_Analytics%5D-Ecommerce_theLook.ipynb)
+
+**Slides**: [theLook PDF](https://github.com/wLennyw/analysis-eCommerce_theLook/blob/main/FP%20Case%20Study%20-%20theLook%20(updated%20June%202025).pdf)
 
 ## 📎 License
 This project is intended for educational and portfolio purposes only. Dataset is publicly provided by Google under its respective licensing.
